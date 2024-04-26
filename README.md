@@ -28,5 +28,6 @@ This code was used for my light image, so that **threshold_value and threshold_m
 
 # Result
 ![image](https://github.com/msjung8/light_detect/assets/45056638/15a657d2-8784-4952-8d01-d5f461ffdad9)
-![image](https://github.com/msjung8/light_detect/assets/45056638/eaba53e6-6926-4b7b-878e-677134e18b9a)
+![image](https://github.com/msjung8/light_detect/assets/45056638/09dfcc27-6e6d-4551-931b-1b3e6afbb974)
+
 
